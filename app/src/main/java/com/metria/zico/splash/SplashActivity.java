@@ -8,9 +8,6 @@ import android.support.v7.app.AppCompatActivity;
 import com.metria.zico.MainActivity;
 import com.metria.zico.R;
 
-/**
- * Dibuat dengan kerjakerasbagaiquda oleh Shifu pada tanggal 27/05/2019.
- */
 public class SplashActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
